@@ -9,4 +9,4 @@ cat ./result/specialisation/default/home-files/Stylix.md
 
 echo ""
 echo "alt =============================================="
-cat ./result/specialisation/alt/default/home-files/Stylix.md
+cat ./result/specialisation/alt/home-files/Stylix.md
